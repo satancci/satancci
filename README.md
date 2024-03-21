@@ -1,7 +1,5 @@
 - 👋 Oi, Eu sou o Ricson.
-- 👀 Eu estou interessado em conhecer pessoas que também programam para arduino e melhorar na aprendizagem.
-- 🌱 Atualmente, estou aprendendo c/c++.
-- 💞️ Eu quero colaborar em projetos básicos que utilizem o arduino.
-- 📫 Me encotre em ricsonafonso13@gmail.com ou ricson.195661@fmm.org.br.
-
-
+- 👀 Eu estou interessado em conhecer pessoas que também programam para arduino, esp32, pic, attiny e/ou stm32.
+- 🌱 Atualmente, estou atuo com c, c/c++, c#, java e python.
+- 💞️ Eu quero colaborar em projetos básicos que utilizem qualquer placa de desenvolvimento.
+- 📫 Encotre-me em ricsonafonso13@gmail.com ou ricson.da.costa@gmail.com
