@@ -1,5 +1,5 @@
 - 👋 Oi, Eu sou o Ricson.
 - 👀 Eu estou interessado em conhecer pessoas que também programam para arduino, esp32, pic, attiny e/ou stm32.
-- 🌱 Atualmente, estou atuo com c, c/c++, c#, java e python.
+- 🌱 Atualmente, estou atuando com c/c++, c# e python.
 - 💞️ Eu quero colaborar em projetos básicos que utilizem qualquer placa de desenvolvimento, projetos de criação de hardware e até criação de aplicativos para Windows.
 - 📫 Encotre-me em ricsonafonso13@gmail.com ou ricson.da.costa@gmail.com
