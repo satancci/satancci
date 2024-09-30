@@ -7,11 +7,9 @@ I'm a embedded systems dev.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-
 <div style="text-align: center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=satancci&theme=prussian&hide_border=false"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=satancci&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
-  <img align="center" alt="css" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satancci&theme=prussian" />
 </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
