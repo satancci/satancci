@@ -34,7 +34,6 @@ I'm using Arduino Uno, ESP32-WROOM-32 Devkit V1, STM32F411CEU6, STM32G474CEU6, M
   <img align="center" alt="html5" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" >
-  <img align="center" alt="ts" src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" />
 
 </div><br/>
 
