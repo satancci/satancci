@@ -49,5 +49,5 @@ For electronic development and Win apps.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satancci&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=satancci&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanmurapaka45" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=satancci&label=Profile%20views&color=0e75b6&style=flat" alt="satancci" /></p>
 </div>
